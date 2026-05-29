@@ -1,9 +1,9 @@
-# 🌍 AI Travel Studio — FutureTravel AI SaaS
+# 🌍 AI Travel Studio — Open-Source AI Travel Photo Generator SaaS (Free Teleport AI / Picsart Travel Alternative)
 
-> **Teleport yourself to gorgeous landmarks and travel destinations worldwide with stunning photorealistic accuracy.** Upload a portrait, pick an iconic scenery preset (Paris, Kyoto, Colosseum, Maldives), and get a photorealistic travel snapshot using Google DeepMind's `nano-banana-2-edit` and `nano-banana-pro-edit` models. A production-ready, self-hostable Next.js SaaS.
+> **Place yourself into iconic travel destinations worldwide with photorealistic AI in seconds.** A production-ready, self-hostable Next.js SaaS boilerplate with destination scene presets (Paris, Kyoto, Maldives, Colosseum), webhook-backed async delivery, and built-in Stripe billing. A free open-source alternative to Teleport AI and Picsart — powered by the MuAPI AI engine.
 
-**Tech stack:** Next.js 16 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS (v4) · MuAPI (nano-banana) · Webhook-backed async delivery  
-**Use cases:** Photorealistic travel simulations · Virtual holiday albums · Creative social media portraits · Personalized adventure keepsakes
+**Tech stack:** Next.js 14 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI nano-banana-2-edit · Webhook-backed async delivery
+**Use cases:** Travel content creators · Social media influencers · Virtual tourism · Holiday gift photos · Personalized travel keepsakes · Event marketing · Tourism brand promotions · Photo gifting apps
 
 ![FutureTravel AI Interface](https://cdn.muapi.ai/data/2/733032636766/Screenshot_2026-05-29_182340.png)
 
