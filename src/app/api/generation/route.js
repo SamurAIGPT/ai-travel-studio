@@ -11,7 +11,13 @@ const FALLBACK_MAP = {
   "rome": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1200",
   "maldives": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?q=80&w=1200",
   "egypt": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?q=80&w=1200",
-  "swiss alps": "https://images.unsplash.com/photo-1502784444187-359ac186c5bb?q=80&w=1200"
+  "swiss alps": "https://images.unsplash.com/photo-1502784444187-359ac186c5bb?q=80&w=1200",
+  "new york": "https://images.unsplash.com/photo-1534430480872-3498386e7856?q=80&w=1200",
+  "taj mahal": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1200",
+  "sydney": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?q=80&w=1200",
+  "london": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?q=80&w=1200",
+  "bali": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=1200",
+  "venice": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?q=80&w=1200"
 };
 const DEFAULT_FALLBACK = "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1200";
 
