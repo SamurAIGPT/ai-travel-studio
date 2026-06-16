@@ -93,7 +93,7 @@ FutureTravel AI is a premium SaaS web application that places users in gorgeous 
 | **Stripe** | `STRIPE_SECRET_KEY` | Stripe Secret Key |
 | | `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` | Stripe Publishable Key |
 | | `STRIPE_WEBHOOK_SECRET` | Webhook signing secret |
-| **AI** | `MUAPIAPP_API_KEY` | Get from [muapi.ai](https://muapi.ai) |
+| **AI** | `MUAPIAPP_API_KEY` | Get from [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=ai-travel-studio) |
 
 ### 🚀 Production Deployment Setup
 
