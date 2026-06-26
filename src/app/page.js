@@ -581,7 +581,7 @@ export default function StudioPage() {
     DESTINATIONS.find((d) => d.id === selectedDestId) || DESTINATIONS[0];
 
   return (
-    <div className="flex-1 overflow-y-auto bg-zinc-950 font-sans py-8 px-4 sm:px-6 relative">
+    <div className="flex-1 overflow-y-auto bg-bg-page font-sans py-8 px-4 sm:px-6 relative">
       <div className="max-w-7xl mx-auto flex flex-col gap-6">
         {/* Sleek Header */}
         <div className="text-center max-w-2xl mx-auto flex flex-col gap-2 mb-2">

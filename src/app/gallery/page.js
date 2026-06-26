@@ -65,7 +65,7 @@ export default function GalleryPage() {
 
   if (!session?.user) {
     return (
-      <div className="flex-1 flex items-center justify-center bg-zinc-950 p-8">
+      <div className="flex-1 flex items-center justify-center bg-bg-page p-8">
         <div className="text-center max-w-sm">
           <div className="h-16 w-16 rounded-2xl bg-zinc-900 border border-zinc-800 flex items-center justify-center mx-auto mb-4">
             <FaImages className="text-2xl text-zinc-600" />
@@ -82,7 +82,7 @@ export default function GalleryPage() {
   }
 
   return (
-    <div className="flex-1 overflow-y-auto bg-zinc-950 py-8 px-4 sm:px-6 lg:px-8 font-sans">
+    <div className="flex-1 overflow-y-auto bg-bg-page py-8 px-4 sm:px-6 lg:px-8 font-sans">
       <div className="max-w-6xl mx-auto">
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-zinc-100 tracking-tight">
@@ -217,7 +217,7 @@ export default function GalleryPage() {
             </div>
 
             {/* Modal Image */}
-            <div className="flex-1 overflow-auto flex items-center justify-center bg-zinc-950 p-4 min-h-[300px]">
+            <div className="flex-1 overflow-auto flex items-center justify-center bg-bg-page p-4 min-h-[300px]">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={
