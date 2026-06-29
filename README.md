@@ -15,6 +15,8 @@
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
 
+https://github.com/user-attachments/assets/9fa1782c-2c27-4797-8c53-49a01d5d8cdf
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-travel-studio](https://github.com/SamurAIGPT/ai-travel-studio)
