@@ -17,6 +17,11 @@
 
 https://github.com/user-attachments/assets/9fa1782c-2c27-4797-8c53-49a01d5d8cdf
 
+## Related Projects
+
+- [MuAPI image playground](https://muapi.ai/playground) — Try image-generation and editing models for travel scenes.
+- [MuAPI access keys](https://muapi.ai/access-keys) — Create the API key used by this app.
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-travel-studio](https://github.com/SamurAIGPT/ai-travel-studio)
